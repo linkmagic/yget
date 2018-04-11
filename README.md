@@ -1,4 +1,4 @@
-# YGet 0.0.1, network receiver
+# YGet v1.0, network receiver
 
 **FAQ**
 
